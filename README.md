@@ -18,3 +18,9 @@
 <div style = "display: inline_block"><br/>
  <img aling = "center" alt = "Next" src ="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
+<div style = "display: inline_block"><br/>
+ <img aling = "center" alt = "React" src ="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
+</div>
+<div style = "display: inline_block"><br/>
+ <img aling = "center" alt = "React" src ="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
+</div>
