@@ -21,6 +21,3 @@
 <div style = "display: inline_block"><br/>
  <img aling = "center" alt = "React" src ="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
 </div>
-<div style = "display: inline_block"><br/>
- <img aling = "center" alt = "React" src ="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
-</div>
