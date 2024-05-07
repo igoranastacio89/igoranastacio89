@@ -15,3 +15,6 @@
 <div style = "display: inline_block"><br/>
  <img aling = "center" alt = "Flutter" src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
+<div style = "display: inline_block"><br/>
+ <img aling = "center" alt = "Next" src ="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</div>
