@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Igor Santos  
-Desenvolvedor Full Stack com foco em criar aplicações modernas e eficientes. Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais.
+Desenvolvedor com foco em criar aplicações modernas e eficientes. Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais.
 
 🌟 Áreas de interesse: Desenvolvimento web e mobile, arquitetura de software, boas práticas de desenvolvimento e performance.
 
